@@ -15,7 +15,7 @@ const Header = async () => {
       <nav className='h-full flex justify-between container items-center'>
         <div>
           <Link href='/' className='text-ct-dark-600 text-2xl font-semibold'>
-            CodevoWeb
+            CodeCo.tech
           </Link>
         </div>
         <ul className='flex items-center space-x-4'>
